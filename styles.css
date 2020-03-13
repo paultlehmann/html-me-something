@@ -1,0 +1,50 @@
+table {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 75px;
+  margin-left: 75px;
+  padding-top: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  text-align: center;
+}
+
+.intro {
+	color: red;
+	text-shadow: 1px 1px green;
+}
+
+#winner {
+	color: gold;
+}
+
+#second {
+	color: silver;
+}
+
+#third {
+	color: brown;
+}
+
+h1 {
+	font-size: 72px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 44px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 24px;
+	color: orange;
+	text-decoration: underline;
+}
+
+.review {
+	font-style: italic;
+	color: yellow;
+}
